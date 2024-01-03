@@ -7,7 +7,7 @@ function Banner() {
           Grow with us
         </h2>
         <div className="text-[20px] md:text-[50px] text-white md:p-[24px]">
-          Learn what
+          Learn 
         </div>
       </div>
     </div>
